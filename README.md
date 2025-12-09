@@ -43,14 +43,16 @@ Figure 02  Encoder 8 * 3
 Developed by: Sifiz.A
 RegisterNumber: 25010152
 
-<img width="655" height="402" alt="Screenshot (133)" src="https://github.com/user-attachments/assets/96e90716-11f3-4826-837b-04bf4d3f9d84" />
+<img width="533" height="330" alt="Screenshot (162)" src="https://github.com/user-attachments/assets/e8b210c9-c0f1-45d3-b646-4fdaade3f78a" />
+
 
 
 **RTL LOGIC FOR Encoder 8 To 3 in Dataflow Modelling**
-<img width="1144" height="602" alt="Screenshot (134)" src="https://github.com/user-attachments/assets/3d056477-a23c-45bb-b7ec-b56960965a18" />
+<img width="688" height="646" alt="Screenshot (163)" src="https://github.com/user-attachments/assets/b4473a42-44f8-4094-b595-a47fb6aca083" />
 
 **TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
-<img width="1725" height="426" alt="Screenshot (135)" src="https://github.com/user-attachments/assets/b06e9a29-1ea9-485c-adfd-a228f070132b" />
+<<img width="757" height="572" alt="Screenshot (164)" src="https://github.com/user-attachments/assets/738589c0-daa0-4ab4-a833-ec87f6ac4ee1" />
+
 
 **RESULTS**
 Thus the program to implement  Encoder 8 To 3 in Dataflow Modelling using verilog and validate their functionality using their functional tables has been completed successfully
